@@ -81,17 +81,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-//Question 1:
-//Following the app displayed in today's lesson, recreate your own sign-in
-// page with persistence, the opportunity to register, and a page to go to
-// when signed in, which is unique to the user. When completed, push to a
-// GitHub repository, and paste the link here.
-//
-//Question 2:
-//Using SharedPreferences and Intents, create an app that allows a user
-// to enter their favorite foods into storage in one activity,
-// then move to another activity, so that a friend can guess if a food is
-// on the list. Display a toast on the screen whenever the food is
-// correctly on the list, or is missing from the list.
-//
-//When completed, push to a GitHub repository, and paste the link here.
+aste the link here.
